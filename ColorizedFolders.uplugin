@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "Colorized Folders",
+	"Description": "Colorizes content browser folders according to color schemes.",
+	"Category": "Content Browser",
+	"CreatedBy": "MajorT",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ColorizedFolders",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
